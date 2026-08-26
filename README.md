@@ -110,20 +110,6 @@ Repository:
 
 ---
 
-## 💼 IT Career Mentor (In Progress)
-
-RAG-powered chatbot that recommends IT career paths such as Web Development, Game Development, and AI Engineering.
-
-### Highlights
-
-* Retrieval + Generation architecture
-* Personalized recommendation pipeline
-* Conversational AI system
-
-Repository:
-[IT Career Mentor](https://github.com/justin-2212/IT_career_mentor?utm_source=chatgpt.com)
-
----
 
 # 📜 Certifications
 
